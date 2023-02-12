@@ -1,0 +1,4 @@
+version: "3"
+services:
+  cmatrix:
+    image: blg18749/cmatrix-ubuntu
