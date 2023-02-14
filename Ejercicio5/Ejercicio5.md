@@ -52,7 +52,7 @@ docker push diegodir92/webapache
 
 ![](capturas/Captura13.PNG)
 
-##### David descarga la imagen de docker y la prueba
+##### David descarga la imagen de docker y la prueba 
 
 ![](capturas/Captura14.PNG)
 
